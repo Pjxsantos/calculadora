@@ -17,4 +17,4 @@
 
 # Visualização | Preview
 
-![calculator Preview](https://pjxsantos.github.io/calculadora/images/calculadora.jpg)
+![calculator Preview](https://raw.githubusercontent.com/Pjxsantos/calculadora/main/images/calculadora.jpeg)
